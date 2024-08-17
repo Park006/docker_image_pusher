@@ -26,3 +26,4 @@ opensearchproject/opensearch:latest
 opensearchproject/opensearch-dashboards:latest
 myscale/myscaledb:1.6.4
 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
+jenkins/jenkins:latest
