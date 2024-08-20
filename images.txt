@@ -5,6 +5,7 @@
 ##支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist 
 # Chrome
+oldiy/chrome-novnc
 selenium/standalone-chrome
 # Dify 0.7.0
 langgenius/dify-api:0.7.0
