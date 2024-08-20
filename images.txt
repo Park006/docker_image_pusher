@@ -4,6 +4,8 @@
 #xhofe/alist:latest
 ##支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist 
+# desktop
+colinchang/ubuntu-desktop
 ghcr.io/linuxserver/webtop:latest
 # Chrome
 oldiy/chrome-novnc
