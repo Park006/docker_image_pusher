@@ -8,6 +8,7 @@
 jenkins/jenkins:latest
 # MySQL
 mysql:8.0
+mysql:lts
 # Dify 0.7.0
 #langgenius/dify-api:0.7.0
 #langgenius/dify-web:0.7.0
