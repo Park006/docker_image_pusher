@@ -9,6 +9,8 @@ jenkins/jenkins:latest
 # MySQL
 mysql:8.0
 mysql:lts
+# PostgreSQL
+postgres:latest
 # SonarQube
 sonarqube:latest
 # Dify 0.7.0
