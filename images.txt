@@ -16,3 +16,4 @@ mysql:lts
 postgres:latest
 # SonarQube
 sonarqube:latest
+mcp/sonarqube
