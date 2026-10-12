@@ -4,6 +4,17 @@
 #xhofe/alist:latest
 ##支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+# Plane
+makeplane/plane-frontend:stable
+makeplane/plane-space:stable
+makeplane/plane-admin:stable
+makeplane/plane-live:stable
+makeplane/plane-backend:stable
+postgres:15.7-alpine
+valkey/valkey:7.2.11-alpine
+rabbitmq:3.13.6-management-alpine
+docker.io/pgsty/silo:RELEASE.2026-09-16T00-00-00Z
+makeplane/plane-proxy:stable
 # Gitlab
 gitlab/gitlab-ce:latest
 gitlab/gitlab-runner:latest
@@ -14,8 +25,8 @@ node:lts-trixie-slim
 golang:1.24-alpine
 alpine:3.21
 # 微信公众号同步
-rachelos/we-mp-rss:latest
-cooderl/wewe-rss-sqlite:latest
+# rachelos/we-mp-rss:latest
+# cooderl/wewe-rss-sqlite:latest
 # Jenkins
 jenkins/jenkins:latest
 # MySQL
