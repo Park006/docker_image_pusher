@@ -4,6 +4,8 @@
 #xhofe/alist:latest
 ##支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+# Jenkins
+jenkins/jenkins:latest
 # Plane
 makeplane/plane-frontend:stable
 makeplane/plane-space:stable
@@ -27,8 +29,6 @@ alpine:3.21
 # 微信公众号同步
 # rachelos/we-mp-rss:latest
 # cooderl/wewe-rss-sqlite:latest
-# Jenkins
-jenkins/jenkins:latest
 # MySQL
 mysql:8.0
 mysql:lts
